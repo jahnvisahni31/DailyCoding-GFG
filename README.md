@@ -2,6 +2,8 @@
 
 Welcome to the DailyCoding-GFG repository! This repository contains my solutions to the daily coding problems from GeeksforGeeks. Each problem is solved with detailed explanations and comments to help understand the logic behind the solutions.
 
+![Welcome Animation](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -27,13 +29,25 @@ For example, a solution to an easy problem might be named `easy-problem-name.ext
 ## Solutions
 
 ### Easy
-easy problems 
+<div style="padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+    <details>
+        <summary>Easy problems</summary>
+    </details>
+</div>
 
 ### Medium
-medium problems 
+<div style="padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+    <details>
+        <summary>Medium problems</summary>
+    </details>
+</div>
 
 ### Hard
-hard problems
+<div style="padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+    <details>
+        <summary>Hard problems</summary>
+    </details>
+</div>
 
 ## Contributing
 
@@ -42,7 +56,6 @@ I welcome contributions! If you have a better solution or additional insights, f
 ## Profile
 
 You can view my GeeksforGeeks profile [here](https://www.geeksforgeeks.org/user/jahnvisahni98).
-
 
 ## License
 
